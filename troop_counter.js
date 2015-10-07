@@ -1,3 +1,4 @@
+/* http://www.crosstrigger.com/tw/v7/troop_counter.js */
 /* 
 	Author	: Dale McKay
 	Email	: dalesmckay@gmail.com
