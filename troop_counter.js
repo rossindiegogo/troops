@@ -85,7 +85,7 @@ try{
 		if(typeof(translation[lang][id])=="undefined"){
 			return "";
 		}
-		alert(lang);
+		//alert(lang);
 		
 		return translation[lang][id];
 	}
